@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eiel/cypress-native-chrome-code-coverage/issues"
   },
-  "homepage": "https://github.com/eiel/cypress-native-chrome-code-coverage#readme"
+  "homepage": "https://github.com/eiel/cypress-native-chrome-code-coverage#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
