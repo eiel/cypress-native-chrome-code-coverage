@@ -1,0 +1,19 @@
+{
+  "name": "@eiel/cypress-native-chrome-code-coverage",
+  "version": "0.0.1",
+  "description": "Native code coverage in Chrome browser via Debugger protocol during Cypress end-to-end tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiel/cypress-native-chrome-code-coverage.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eiel/cypress-native-chrome-code-coverage/issues"
+  },
+  "homepage": "https://github.com/eiel/cypress-native-chrome-code-coverage#readme"
+}
